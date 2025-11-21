@@ -18,4 +18,6 @@ where 0-3 would be the device ID
 ```go build```
 
 # Run
-```./go-face-detect 0 haarcascade_frontalface_default.xml```
+```./go-face-detect 0 ./haarcascade_frontalface_default.xml```
+
+press 'ESC' to quit
